@@ -1,2 +1,3 @@
-# AUDL_web_scraping
-Scraping the American Ultimate Disc League website to extract player stats and info for the 2022 season
+# # American Ultimate Disc League (AUDL) - web scraping 
+
+Scraping data from the AUDL website to extract player stats and personal info for the 2022 season. 
