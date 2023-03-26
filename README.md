@@ -1,10 +1,11 @@
-![AUDL logo](https://github.com/renatavarn/AUDL_web_scraping/blob/main/readme_files/workflow.png)
+![AUDL logo](https://github.com/renatavarn/AUDL_web_scraping/blob/main/AUDL%20logo.png)
 
 
-# American Ultimate Disc League (AUDL) - web scraping 
+# American Ultimate Disc League (AUDL) - web scraping project
 
 Scraping data from the AUDL website to extract player stats and personal info for the 2022 season into a single dataframe. 
 
+## 
 
 ## Final data frame contains: 
 
