@@ -2,7 +2,8 @@
 
 Scraping data from the AUDL website to extract player stats and personal info for the 2022 season into a single dataframe. 
 
-The final data frame contains the following info:
+
+## Final data frame contains: 
 
 Personal info:
 Name, Team, Age, Height_cm, Weight_kg, Jersey_no, College
