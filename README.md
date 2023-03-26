@@ -1,4 +1,4 @@
-![AUDL logo](https://github.com/renatavarn/AUDL_web_scraping/blob/main/readme_files/AUDL_banner.png)
+![AUDL logo](https://github.com/renatavarn/AUDL_web_scraping/blob/main/readme_files/workflow.png)
 
 
 # American Ultimate Disc League (AUDL) - web scraping 
