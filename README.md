@@ -29,5 +29,5 @@ Player statistics (cumulative or %):
 Posessions, Total scores, Assists, Goals, Blocks, +-, Completions, Cmp% (completion percentage), Yards, Throwing Yards, Receiving Yards, Offensive Effic, Hockey assists, Throwaways, Stalls, Drops, Calahans, Hucks, Huck completion %, Pulls, Offensive PP, Defensive PP, Minutes played
 
 
-### Feel free to download `audl_2022_player_data.csv` file and do your own analysis! It can be used for comparing individual players or teams during the 2022 season! 
+### Feel free to download `audl_2022_player_data.csv` file and do your own analysis! It can be used for comparing individual players or teams during the 2022 season and more.
 
